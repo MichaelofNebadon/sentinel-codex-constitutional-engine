@@ -330,32 +330,66 @@ A formal framework for distributed autonomy, cloud control plane governance, and
 
 
 
-=============================================================================
-🏛️ SENTINEL CODEX — AUGMENTED SPECTRAL SYSTEM (FINAL CANONICAL FORM)
-========================================================================
+═══════════════════════════════════════════════════════════════
+SENTINEL CODEX — CONSTRAINED JOINT SPECTRAL RADIUS
+═══════════════════════════════════════════════════════════════
 
-✅ Semigroup:
-   𝒮(𝒜_aug, G) ⊂ ℝ^{2n×2n}
-   (finite constrained matrix semigroup over regular language G)
+STATE SPACE
+    X = ℝ^{2n}
 
-✅ Spectral Stability:
-   ρ(𝒜_aug, G) < 1
-   ⇒ Uniform Exponential Stability (UES)
+ADMISSIBLE SEMIGROUP
+    𝒮(𝒜aug,G)
+    = {Aσk⋯Aσ1 : σ ∈ G}
+    ⊂ ℝ2n×2n
 
-✅ Geometric Characterization:
-   UES ⇔ ∃ extremal norm ||·||_G on ℝ^{2n}
-        such that max_i ||A_i||_G < 1
+CONSTRAINED JOINT SPECTRAL RADIUS
+    ρ(𝒜aug,G)
+    = limsup_{k→∞}
+      sup_{σ∈G, |σ|=k}
+      ||Aσ||1/k
 
-   (sufficient direction: contraction ⇒ stability)
+FUNDAMENTAL STABILITY THEOREM
+    ρ(𝒜aug,G) < 1
+        ⇔
+    Uniform Exponential Stability
+    (under the standard assumptions for finite constrained switching systems)
 
-   (necessary direction holds under finiteness + admissible language compactness)
+EXTREMAL NORM CHARACTERIZATION
+    ρ(𝒜aug,G) < 1
+        ⇔
+    ∃ extremal norm ||·||G
+    and γ<1 such that
 
-✅ Boundary Manifold:
-   ρ(𝒜_aug, G) = 1
-   ⇔ extremal norm becomes non-strict (neutral invariance of unit ball)
+        ||A_i x||G ≤ γ||x||G
 
-✅ Observer Embedding:
-   All estimation dynamics are incorporated into 𝒜_aug,
-   yielding a single constrained operator semigroup governing the closed-loop system
+    for every admissible generator A_i.
 
-========================================================================
+CRITICAL SPECTRAL MANIFOLD
+    ρ(𝒜aug,G)=1
+
+    ⇔
+
+    the extremal norm is non-strict,
+
+        max_i ||A_i||G = 1,
+
+    representing the transition between
+    contraction and non-contraction.
+
+(Project terminology)
+    This critical manifold is called the
+    "Da'at Bridge."
+
+OBSERVER EMBEDDING
+    Plant and observer dynamics are embedded
+    into the augmented operators Aaug,
+    producing a single constrained operator
+    semigroup for the complete closed-loop system.
+
+UNIVERSAL SPECTRAL CERTIFICATE
+
+        ρ(𝒜aug,G) < 1
+
+is necessary and sufficient for uniform
+exponential stability.
+═══════════════════════════════════════════════════════════════
