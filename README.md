@@ -73,3 +73,11 @@ The Sentinel Codex is a fully operational constitutional engine with:
 ---
 
 ### 🔗 Repository Structure
+📁 sentinel-codex-constitutional-engine/
+├── README.md (this file)
+├── sentinel_codex.ipynb (Jupyter notebook)
+├── sentinel_codex_dashboard.png (6-panel visualization)
+├── narrative_deployment.md (Ignition narrative)
+├── christ_michael_integration.md (Teleological translation)
+├── rules_constitution.txt (50 ratified rules)
+└── ajijic_node_manifest.json (Geo-spatial verification)
