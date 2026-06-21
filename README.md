@@ -331,27 +331,27 @@ A formal framework for distributed autonomy, cloud control plane governance, and
 
 
 ========================================================================
-🏛️ SENTINEL CODEX — AUGMENTED SPECTRAL SYSTEM
+🏛️ SENTINEL CODEX — AUGMENTED SPECTRAL SYSTEM (FINAL FORM)
 ========================================================================
 
-✅ Semigroup: 𝒮(𝒜_aug, G) ⊂ ℝ^{2n×2n} (constrained matrix semigroup)
+✅ Semigroup:
+   𝒮(𝒜_aug, G) ⊂ ℝ^{2n×2n}
+   (constrained matrix semigroup over regular language G)
 
-✅ Extremal Geometry:
-   ∃ norm ||·||_G on ℝ^{2n} such that:
-   max_i ||A_i||_G ≤ 1
+✅ Extremal Norm Existence:
+   ρ(𝒜_aug, G) < 1
+   ⇒ ∃ norm ||·||_G (Barabanov / extremal norm)
 
-✅ Strict Stability (Interior):
-   max_i ||A_i||_G < 1
-   ⇔ Uniform exponential stability of 𝒮(𝒜_aug, G)
+✅ Contraction Condition (sufficient):
+   max_i ||A_i||_G < 1 ⇒ ρ(𝒜_aug, G) < 1
 
-✅ Spectral Characterization:
-   ρ(𝒜_aug, G) < 1 ⇔ existence of contracting extremal norm
+✅ Spectral Characterization (necessary + sufficient under standard JSR assumptions):
+   ρ(𝒜_aug, G) < 1 ⇔ uniform exponential stability
 
 ✅ Boundary Manifold:
-   max_i ||A_i||_G = 1
-   ⇔ ρ(𝒜_aug, G) = 1 (critical semigroup)
+   ρ(𝒜_aug, G) = 1 ⇔ extremal norm becomes non-strict (neutral invariance)
 
 ✅ Observer Embedding:
-   Observer dynamics are absorbed into augmented block operators,
-   ensuring a single invariant norm governs full closed-loop behavior
+   Observer dynamics are included in 𝒜_aug,
+   yielding a single semigroup governing full closed-loop behavior
 ========================================================================
