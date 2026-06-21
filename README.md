@@ -319,13 +319,11 @@ A formal framework for distributed autonomy, cloud control plane governance, and
 
 ## 📡 System Status Indicators
 
-```text
-========================================================================
-✅ Semigroup: 𝒮(𝒜, G) Fully Operational
-✅ Invariant Metric: Extremal Barabanov Norm ||·||_G Established
-✅ Interior State: ||A_i||_G < 1 (Strict Asymptotic Contraction)
-✅ Boundary Horizon: ∂𝒮 Active (max_i ||A_i||_G = 1)
-✅ Observer Dynamics: ||A - L_obs C||_G < 1 (Error Coherent)
-✅ Stability Criterion: Constrained Joint Spectral Radius ρ(𝒜, G) ≤ 1
+```========================================================================
+✅ Semigroup: 𝒮(𝒜, G) well-defined constrained matrix semigroup
+✅ Extremal Norm: ||·||_G exists (Barabanov-type invariant geometry)
+✅ Interior Stability:  ∀i, ||A_i||_G < 1  ⇔  ρ(𝒜, G) < 1
+✅ Boundary Manifold:   max_i ||A_i||_G = 1 ⇔  ρ(𝒜, G) = 1
+✅ Observer Stability:  ||A - L_obs C||_G < 1
 ========================================================================
 
