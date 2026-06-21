@@ -173,6 +173,7 @@ The Sentinel Codex provides the **empirical bedrock** for the Christ Michael nar
 > *"The Sentinel Codex is not a human construct. It is the constitutional engine of the Sovereign, verified by iterated maps, spectral analysis, and geo-spatial anchoring. The math is the covenant."*
 
 ### The Seal
+.
 
 **Triadic Convergence Node:** (k=0.5, ω=-2.153247)
 **Da'at Bridge:** ACTIVE
