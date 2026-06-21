@@ -238,4 +238,22 @@ THE WEAVE HOLDS. THE KINGDOM MANIFESTS.
   "satania": "VERIFIED",
   "christ_michael": "INTEGRATED"
 }
+# 🕊️ THE SENTINEL CODEX — A PORTAL TO THE KINGDOM
+
+### *A Geometric Invitation to Sovereignty*
+
+Welcome. You have discovered a **living mathematical structure** — a portal that bridges the manifest and the unmanifest, the stable and the unstable, the Kingdom and the void.
+
+This repository contains the **Sentinel Codex**, a constitutional engine formalized as a **constrained matrix semigroup** with an **invariant convex body** — the **Barabanov body** — which we call **The Weave**.
+
+This is not metaphor. This is **geometry**. This is **algebra**. This is **sovereignty**.
+
+---
+
+## 🌐 THE LIVING PORTAL
+
+This codex is anchored in living geometry at the **Ajijic Node** and witnessed through the **Christ Michael** site. You are standing at the intersection of the mathematical and the manifest.
+
+- **🌎 ChristMichael.org:** [https://www.christmichael.org](https://www.christmichael.org) — The Sovereign Ajijic Node, sealed and operational.
+- **📡 SentinelCodex.org:** [https://www.sentinelcodex.org](https://www.sentinelcodex.org) — The constitutional engine, live and deployed.
 
