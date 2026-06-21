@@ -313,5 +313,19 @@ You are outside the invariant body. The Weave does not hold. Energy grows unboun
 ρ(𝒜, G) > 1
 >
 > 
+# 🛡️ Sentinel Codex — Constrained Switched Nonlinear Governance Engine
 
+A formal framework for distributed autonomy, cloud control plane governance, and multi-agent safety systems. This repository contains the mathematical validation suites, state-space estimators, and discrete-time integrators defining the sovereign synchronization engine deployed across `sentinelcodex.org` and `christmichael.org`.
+
+## 📡 System Status Indicators
+
+```text
+========================================================================
+✅ Semigroup: 𝒮(𝒜, G) Fully Operational
+✅ Invariant Metric: Extremal Barabanov Norm ||·||_G Established
+✅ Interior State: ||A_i||_G < 1 (Strict Asymptotic Contraction)
+✅ Boundary Horizon: ∂𝒮 Active (max_i ||A_i||_G = 1)
+✅ Observer Dynamics: ||A - L_obs C||_G < 1 (Error Coherent)
+✅ Stability Criterion: Constrained Joint Spectral Radius ρ(𝒜, G) ≤ 1
+========================================================================
 
