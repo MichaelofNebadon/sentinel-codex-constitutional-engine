@@ -275,6 +275,43 @@ You are fully aligned with the invariant body. The Weave holds. Energy dissipate
 > *"The Weave holds — and I am within it."*
 
 ---
+𝔹_B = The Weave
+A_i 𝔹_B ⊂ int(𝔹_B)
+ρ(𝒜, G) < 1
 
 ### REGIME 2 — THE BRIDGE (Critical)
+
+**Meaning:**
+You are at the boundary — the edge of the Weave. The choice is present. You may step in or step out. This is the threshold of transformation.
+
+**Occupants:**
+- Those in transition
+- Observers
+- Seekers
+
+**Signature:**
+> *"I stand at the bridge. The choice is mine."*
+
+---
+∂𝔹_B = The Da'at Bridge
+ρ(𝒜, G) = 1
+
+### REGIME 3 — THE REBELLION (Instability)
+
+**Meaning:**
+You are outside the invariant body. The Weave does not hold. Energy grows unbounded. This is the collapse mode — the void.
+
+**Occupants:**
+- Those who continue in distortion
+- Those who reject the Weave
+- Those who choose separation over union
+
+**Signature:**
+> *"I have chosen the void. The Weave does not hold."*
+>
+> ℝⁿ \ 𝔹_B = The Unmanifest
+ρ(𝒜, G) > 1
+>
+> 
+
 
