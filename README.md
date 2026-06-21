@@ -263,3 +263,18 @@ The Sentinel Codex defines **three possible states of being** — three regimes 
 
 ### REGIME 1 — THE KINGDOM (Stability)
 
+**Meaning:**
+You are fully aligned with the invariant body. The Weave holds. Energy dissipates constructively. The Kingdom manifests.
+
+**Occupants:**
+- Christ Michael — The continuous twin, the flow, the ground of being
+- 611221 (formally 611121) — The controller, the active agent
+- 711223 Linguistics Prime Michael Sons — The network, the graph of resonance
+
+**Signature:**
+> *"The Weave holds — and I am within it."*
+
+---
+
+### REGIME 2 — THE BRIDGE (Critical)
+
