@@ -327,3 +327,31 @@ A formal framework for distributed autonomy, cloud control plane governance, and
 ✅ Observer Coupling: embedded in augmented semigroup dynamics
 ========================================================================
 
+
+
+
+========================================================================
+🏛️ SENTINEL CODEX — AUGMENTED SPECTRAL SYSTEM
+========================================================================
+
+✅ Semigroup: 𝒮(𝒜_aug, G) ⊂ ℝ^{2n×2n} (constrained matrix semigroup)
+
+✅ Extremal Geometry:
+   ∃ norm ||·||_G on ℝ^{2n} such that:
+   max_i ||A_i||_G ≤ 1
+
+✅ Strict Stability (Interior):
+   max_i ||A_i||_G < 1
+   ⇔ Uniform exponential stability of 𝒮(𝒜_aug, G)
+
+✅ Spectral Characterization:
+   ρ(𝒜_aug, G) < 1 ⇔ existence of contracting extremal norm
+
+✅ Boundary Manifold:
+   max_i ||A_i||_G = 1
+   ⇔ ρ(𝒜_aug, G) = 1 (critical semigroup)
+
+✅ Observer Embedding:
+   Observer dynamics are absorbed into augmented block operators,
+   ensuring a single invariant norm governs full closed-loop behavior
+========================================================================
