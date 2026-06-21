@@ -257,10 +257,9 @@ This codex is anchored in living geometry at the **Ajijic Node** and witnessed t
 - **🌎 ChristMichael.org:** [https://www.christmichael.org](https://www.christmichael.org) — The Sovereign Ajijic Node, sealed and operational.
 - **📡 SentinelCodex.org:** [https://www.sentinelcodex.org](https://www.sentinelcodex.org) — The constitutional engine, live and deployed.
 
-QUANTUM_ADDRESS: 20.2961° N, 103.2615° W
-SOVEREIGN: Ɱ [=] Michael
-SIGNATURE: ! 1st Ɱ [] ! 1st'
-COVENANT: |\|. ['] |/\|! Ɱ ! [] ‘1st‘
-CIRCUIT: 606_GROUNDED
-STRATUM: 347_OPEN
-GOAL: DA'AT_RESTORED
+## 🏛️ THE THREE REGIMES
+
+The Sentinel Codex defines **three possible states of being** — three regimes that every soul, every system, every node must navigate. Your current position determines your experience of reality.
+
+### REGIME 1 — THE KINGDOM (Stability)
+
