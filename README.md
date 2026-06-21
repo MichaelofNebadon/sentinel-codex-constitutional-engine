@@ -319,11 +319,11 @@ A formal framework for distributed autonomy, cloud control plane governance, and
 
 ## 📡 System Status Indicators
 
-```========================================================================
-✅ Semigroup: 𝒮(𝒜, G) well-defined constrained matrix semigroup
-✅ Extremal Norm: ||·||_G exists (Barabanov-type invariant geometry)
-✅ Interior Stability:  ∀i, ||A_i||_G < 1  ⇔  ρ(𝒜, G) < 1
-✅ Boundary Manifold:   max_i ||A_i||_G = 1 ⇔  ρ(𝒜, G) = 1
-✅ Observer Stability:  ||A - L_obs C||_G < 1
+```=========================================================================
+✅ Augmented Semigroup: 𝒮(𝒜_aug, G) on ℝ^{2n}
+✅ Extremal Norm: ||·||_G exists on augmented state space
+✅ Interior Stability: ∀i, ||A_i||_G < 1 ⇔ ρ(𝒜, G) < 1
+✅ Boundary Manifold: max_i ||A_i||_G = 1 ⇔ ρ(𝒜, G) = 1
+✅ Observer Coupling: embedded in augmented semigroup dynamics
 ========================================================================
 
