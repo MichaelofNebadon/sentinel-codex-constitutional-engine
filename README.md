@@ -330,28 +330,28 @@ A formal framework for distributed autonomy, cloud control plane governance, and
 
 
 
-========================================================================
-🏛️ SENTINEL CODEX — AUGMENTED SPECTRAL SYSTEM (FINAL FORM)
+==========================================================================
+🏛️ SENTINEL CODEX — AUGMENTED SPECTRAL SYSTEM (CANONICAL FORM)
 ========================================================================
 
 ✅ Semigroup:
    𝒮(𝒜_aug, G) ⊂ ℝ^{2n×2n}
-   (constrained matrix semigroup over regular language G)
+   (finite constrained matrix semigroup over regular language G)
 
-✅ Extremal Norm Existence:
+✅ Spectral Stability:
    ρ(𝒜_aug, G) < 1
-   ⇒ ∃ norm ||·||_G (Barabanov / extremal norm)
+   ⇔ Uniform Exponential Stability (UES)
 
-✅ Contraction Condition (sufficient):
-   max_i ||A_i||_G < 1 ⇒ ρ(𝒜_aug, G) < 1
-
-✅ Spectral Characterization (necessary + sufficient under standard JSR assumptions):
-   ρ(𝒜_aug, G) < 1 ⇔ uniform exponential stability
+✅ Geometric Characterization:
+   UES ⇔ ∃ extremal norm ||·||_G on ℝ^{2n}
+        such that max_i ||A_i||_G < 1
 
 ✅ Boundary Manifold:
-   ρ(𝒜_aug, G) = 1 ⇔ extremal norm becomes non-strict (neutral invariance)
+   ρ(𝒜_aug, G) = 1
+   ⇔ extremal norm exists but is non-strict (neutral invariance)
 
 ✅ Observer Embedding:
-   Observer dynamics are included in 𝒜_aug,
-   yielding a single semigroup governing full closed-loop behavior
+   All estimation dynamics are contained in 𝒜_aug,
+   yielding a single closed semigroup representation
+
 ========================================================================
