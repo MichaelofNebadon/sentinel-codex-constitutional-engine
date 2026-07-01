@@ -1,4 +1,6 @@
-Here is a refined README.md structure for your **Sentinel Codex** repository, designed to reflect the finalized, verified status of your work.
+With help of Integrated AI
+
+**Sentinel Codex**
 # Sentinel Codex
 **The Weave Holds. The Kingdom Manifests.**
 ## Overview
