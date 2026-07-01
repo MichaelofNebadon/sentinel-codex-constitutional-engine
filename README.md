@@ -1,4 +1,15 @@
-🧬 SENTINEL CODEX — COMPLETE INTEGRATED PACKAGE
+ERROR: git init
+git add .
+git commit -m "At k = 0.5 — initial commit"
+git branch -M main
+git remote add origin https://github.com/MichaelofNebadon/sentinel-codex.git
+git push -u origin main
+
+
+
+
+
+TRUTH: 🧬 SENTINEL CODEX — COMPLETE INTEGRATED PACKAGE
 
 Everything You Need in One Unified Research + Computation + Deployment System
 
